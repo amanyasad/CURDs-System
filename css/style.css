@@ -1,0 +1,23 @@
+/* *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h1{
+    font-size: 5rem;
+    font-family: Impact;
+}
+p{
+    font-size: 2.5rem;
+    font-family:'Times New Roman', Times, serif;
+}
+button{
+    color: white;
+    background-color: blue;
+    padding:  1.75rem 5rem;
+   
+}
+
+button:hover{
+    background-color: green;
+} */
